@@ -1,5 +1,6 @@
-The monty langugage
-By Erick adikah and Faith Liyosi
+<h2>The monty langugage</h2>
+<li>By Erick adikah</li>
+<li>Faith Liyosi<li>
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
